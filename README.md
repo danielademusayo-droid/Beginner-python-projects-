@@ -6,11 +6,12 @@ A collection of Python scripts and mini-games I'm building while learning Python
 I'm Daniel, a Software Engineering student at the Federal University of Technology, Akure (FUTA). I'm currently learning Python and JavaScript (Node.js/Express) with the goal of specializing in backend engineering. This repo is where I practice fundamentals and build small projects as I go.
 
 ## 📂 What's Inside
-- **Calculators** — Basic Calculator, CI (Compound Interest) Calculator, Weight Unit Converter, Temperature Converter
-- **Games** — Guessing Game, Mad Libs (basic + improved), Pygame Sample
-- **Core Concepts** — If Statements, Loops, Conditional Statements, Indexing, Typecasting, Format Specifiers, Input Handling
-- **Mini Tools** — Login Authenticator, Temperature Check, Math Functions
-- **GUI Practice** — Tkinter basics and an improved Tkinter project
+
+- **`calculators/`** — Basic Calculator, Compound Interest Calculator, Weight Unit Converter, Temperature Converter, Movie Ticket Calculator, Shopping Cart Exercise, Area Calculator Exercise
+- **`games/`** — Guessing Game, Mad Libs (basic + improved), Crazy Madlibs Game, Pygame Sample
+- **`concepts/`** — If Statements, Loops, Conditional Statements, Indexing, Typecasting, Format Specifiers, Input Function, Value Printing, Math Functions, Other Functions
+- **`tools/`** — Login Authenticator, Weather Checker Exercise
+- **`gui/`** — Tkinter basics, Improved Tkinter project
 
 ## 🛠️ Tools & Resources
 Learning primarily through Bro Code's Python YouTube series and freeCodeCamp exercises.
